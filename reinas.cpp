@@ -51,7 +51,7 @@ void funcionIndeonidad(){
     cout <<"Ataques en fila:    "<<contadorF<< endl;
     cout << "Cantidad final:    "<< total - contadorD - contadorF;
 
-}
+} 
 
 void llenarTabla(){
     srand(time(0));
